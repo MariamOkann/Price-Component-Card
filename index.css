@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: hsl(311, 44%, 93%);
+}
+.overallcontainer{
+   display: flex;
+   align-items:center;
+   justify-content: center;
+   height: 700px;
+}
+.firstcontainer{
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 0 30px 30px 30px;
+}
+.heading2{
+    color:rgb(116, 24, 87);
+    padding-top: 40px;
+}
+h3{
+    color: rgb(103, 29, 152);
+    margin-top: 20px;
+}
+h4{
+    opacity:0.6;
+    line-height: 1.8;
+    margin-top: 15px;
+}
+.secondcontainer{
+    background-color: rgb(116, 24, 87);
+    border-bottom-left-radius: 20px;
+    width:50%;
+    padding: 0 30px;
+}
+.h3{
+    color:hsl(311, 44%, 93%);
+    padding-top: 20px;
+}
+.h2{
+    color:hsl(311, 44%, 93%);
+    padding-top:20px;
+    font-size: 40px;
+}
+span{
+    opacity:0.5;
+    font-size: 18px;
+}
+h5{
+    color:hsl(311, 44%, 93%);
+    margin-top: 10px;
+    font-size: 17px;
+}
+button{
+    background-color: rgb(166, 105, 207);
+    color:white;
+    padding:15px;
+    width:85%;
+    border: none;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.flexdiv{
+    display:flex;
+}
+.thirdcontainer{
+    background-color: rgb(140, 43, 109);
+    width:50%;
+    padding: 0 30px;
+    border-bottom-right-radius: 20px;
+}
+.subcontainer3{
+    margin-top: 30px;
+}
+.h5{
+    margin-top: 42px;
+    font-size: 18px;
+}
+.p{
+    margin-top: 19px;
+}
+p{
+    margin-top: 5px;
+    color:hsl(311, 44%, 93%);
+    opacity: 0.7;
+}
+@media only screen and (min-width: 375px) and (max-width: 425px) {
+     .overallcontainer{
+        margin: 30px;
+    } 
+    .flexdiv{
+        display:block;
+    }
+    .firstcontainer{
+        width:80%;
+        padding-top: 100px;
+    }
+     .heading2{
+        padding-top: 40px;
+    } 
+    .secondcontainer{
+    border-bottom-left-radius: 0;
+    width:80%;
+    padding-top: 10px
+}
+.thirdcontainer{
+    width: 80%;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    border-bottom-left-radius: 20px;
+}
+}
