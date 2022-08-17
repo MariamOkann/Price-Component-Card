@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/simple-price-component-card-using-css-flex--f4DAxSpki
-- Live Site URL: https://mariamokann.github.io/Price-Component-Card/
+- Solution URL: [Solution] (https://www.frontendmentor.io/solutions/simple-price-component-card-using-css-flex--f4DAxSpki)
+- Live Site URL: [Price Component Card] (https://mariamokann.github.io/Price-Component-Card/)
 
 ## My process
 
@@ -46,7 +46,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Resource 1](https://www.w3schools.com) - This helped me for understand media queries and applyimg responsivenss with various screens.
+- [W3Schools](https://www.w3schools.com) - This helped me for understand media queries and applyimg responsivenss with various screens.
 
 
 ## Author
