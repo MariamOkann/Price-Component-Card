@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution] (https://www.frontendmentor.io/solutions/simple-price-component-card-using-css-flex--f4DAxSpki)
-- Live Site URL: [Price Component Card] (https://mariamokann.github.io/Price-Component-Card/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/simple-price-component-card-using-css-flex--f4DAxSpki)
+- Live Site URL: [Price Component Card](https://mariamokann.github.io/Price-Component-Card/)
 
 ## My process
 
